@@ -10,6 +10,6 @@ public class Main {
         System.out.printf("What is your name? %n");
     }
     private static String get_massage() {
-        return "Hello my frined!";
+        return "Hello my frined!!!!!";
     }
 }
