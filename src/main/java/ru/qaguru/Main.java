@@ -10,6 +10,6 @@ public class Main {
         System.out.println("How are you?");
     }
     private static String get_massage() {
-        return "Hello my frined!!!!!";
+        return "Hello my boy!!!!!";
     }
 }
