@@ -9,6 +9,6 @@ public class Main {
         System.out.printf(get_massage());
     }
     private static String get_massage() {
-        return "Hello QA GURU!";
+        return "Hello QA GURU!!!!";
     }
 }
